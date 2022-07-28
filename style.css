@@ -1,0 +1,972 @@
+body {
+   
+    background-image: url('hd-wallpaper-3605547.jpg'); 
+    background-repeat:repeat;
+    background-size: 100%;
+    border-color: rgb(136, 136, 136);
+    border-style: inset;
+}
+
+h1 {
+    background-color: rgba(163, 161, 161, 0.24);
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: sans-serif;
+    border-color: rgb(57, 78, 146);
+    opacity: 70%;
+    border-radius: 1px;
+    outline-style: outset;
+    outline-color: beige;
+    
+}
+
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-stretch: semi-condensed;
+    font-kerning: none;
+    animation: forwards;
+    text-shadow: 3px 3px 5px cornflowerblue;
+    opacity: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 1.5px;
+}
+
+p {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgba(206, 206, 204, 0.493);
+    opacity: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+hr {
+    border: none;
+    border-top: 20px solid rgba(17, 35, 114, 0.589);
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+.gsmarena {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.youtube {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.auto {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.facebook {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.windy {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.home {
+    display:block;
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+    
+}
+.menu {
+    display:block;
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-top: 250px;
+    margin-bottom: 300px;
+    
+}
+
+
+
+.paragh1 {
+    text-align: center;
+    justify-content: center;
+    margin-left: 130px;
+    margin-top: -85px;
+    margin-right: 15px;
+    display: block;
+}
+
+.Favor {
+    margin-top: 0px;
+    margin-left: 50px;
+   
+}
+
+.userr {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+}
+
+.family {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+}
+
+.tooltip1 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip1 .tooltiptext1 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip1:hover .tooltiptext1 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip2 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip2 .tooltiptext2 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip2:hover .tooltiptext2 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip3 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip3 .tooltiptext3 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip3:hover .tooltiptext3 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip4 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip4 .tooltiptext4 {
+    visibility: hidden;
+    width: 150px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip4:hover .tooltiptext4 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip5 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip5 .tooltiptext5 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 3px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip5:hover .tooltiptext5 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip6 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip6 .tooltiptext6 {
+    visibility: hidden;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 25px;
+    left: -175%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip6:hover .tooltiptext6 {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.tooltip7 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip7 .tooltiptext7 {
+    visibility: hidden;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 25px;
+    left: -175%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip7:hover .tooltiptext7 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.favorites {
+    position: relative;
+    display: inline-block;
+}
+
+.favorites .favorites_button {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100px;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.favorites.favorites_button::after {
+    content: "";
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.favorites:hover .favorites_button {
+    visibility: visible;
+}
+
+.users {
+    position: relative;
+    display: inline-block;
+}
+
+.users .Information_button {
+    visibility: hidden;
+    width: 120px;
+   background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100px;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.users.Information_button::after {
+    content: "";
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.users:hover .Information_button {
+    visibility: visible;
+}
+
+.family1 {
+    position: relative;
+    display: inline-block;
+}
+
+.family1 .fam_button {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100px;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.family1.fam_button::after {
+    content: "";
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.family1:hover .fam_button {
+    visibility: visible;
+}
+
+.name {
+    display: inline-flexbox;
+    font-size: 40px;
+    border-radius: 1px;
+    border-color: rgb(241, 231, 231);
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: roboto;
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 200px;
+}
+
+.name:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.description:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.description {
+    
+    font-size: xx-large;
+    border-radius: 6px;
+    border-color: rgba(30, 16, 61, 0.699);
+    color: black;
+    background-color: rgba(255, 249, 158, 0.445);
+    font-style: normal;
+    font-family: roboto;
+    text-align: center;
+    margin-left: 810px;
+    margin-right: 300px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.name1 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -150px;
+    margin-left: 900px;
+    margin-right: 100px;
+    width: 200px;
+    height: fit-content;
+}
+
+.name1:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name2 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100x;
+    margin-left: 900px;
+    margin-right: 100px;
+    width: 200px;
+    height: fit-content;
+}
+
+.name2:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name3 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100x;
+    margin-left: 900px;
+    margin-right: 100px;
+    width: 200px;
+    height: fit-content;
+}
+
+.name3:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name4 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100x;
+    margin-left: 900px;
+    margin-right: 100px;
+    width: 200px;
+    height: fit-content;
+}
+
+.name4:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name5 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100x;
+    margin-left: 900px;
+    margin-right: 100px;
+    width: 200px;
+    height: fit-content;
+}
+
+.name5:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name6 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100x;
+    margin-left: 900px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+    width: 200px;
+    height: fit-content;
+}
+
+.name6:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name7 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -471.5px;
+    margin-left: 1200px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    width: 250px;
+    height: fit-content;
+}
+
+.name7:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name8 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -172.5px;
+    margin-left: 1200px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    width: 250px;
+    height: fit-content;
+}
+
+.name8:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name9 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -172.5px;
+    margin-left: 1200px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    width: 250px;
+    height: fit-content;
+}
+
+.name9:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name10 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -172.5px;
+    margin-left: 1200px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    width: 250px;
+    height: fit-content;
+}
+
+.name10:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name11 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -172.5px;
+    margin-left: 1200px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    width: 250px;
+    height: fit-content;
+}
+
+.name11:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.name12 {
+    display: block;
+    font-size: 20px;
+    text-shadow: #333;
+    border-radius: 6px;
+    border-color: darkgray;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -172.5px;
+    margin-left: 1200px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    width: 250px;
+    height: fit-content;
+}
+
+.name12:hover {
+    background-color: rgb(161, 153, 153);
+    transition-duration: 0.10s;
+}
+
+.paragh2 {
+    display: block;
+    text-align: center;
+    justify-content: right;
+    margin-left: 115px;
+    margin-top: -260px;
+    margin-right: 15px;
+}
+
+.paragh3 {
+    display: block;
+    text-align: center;
+    justify-content: right;
+    margin-left: 115px;
+    margin-top: -260px;
+    margin-right: 15px;
+    margin-bottom: 50px;
+}
+
+.photo {
+    margin-left: 100px;
+    margin-top: -150px;
+    height: 25%;
+    width: 25%;
+}
+
+.flex-container {
+    width: 100px;
+    max-width: 200%;
+    margin: 0;
+    margin-left: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    margin-left: 95px;
+    margin-right: 100px;
+    ;
+    justify-content: space-between;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px 10px;
+    border-radius: 5px;
+    flex-direction: column;
+    background: rgba(172, 199, 238, 0.541);
+    box-shadow: 0 0 15px rgb(8, 8, 8);
+    padding: 10px 10px;
+    align-self: child;
+}
+
+.box h4 {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    margin: auto;
+}
+
+.box .readmorebtn {
+    display: inline-block;
+    font-family: sans-serif;
+    border-radius: 5px;
+    background: rgb(60, 69, 116);
+    color: azure;
+    text-align: center;
+    color: azure;
+    padding: 10px 20px;
+}
+
+.box img {
+    max-width: 200px;
+}
+
+.activity2 {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.tooltip8 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip8 .tooltiptext8 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip8:hover .tooltiptext8 {
+    visibility: visible;
+    opacity: 1;
+}
+.activity3 {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.tooltip9 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip9 .tooltiptext9 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip9:hover .tooltiptext9 {
+    visibility: visible;
+    opacity: 1;
+}
+.activity4 {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.tooltip10 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip10 .tooltiptext10 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip10:hover .tooltiptext10 {
+    visibility: visible;
+    opacity: 1;
+}
+.activity5 {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.tooltip11 {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip11 .tooltiptext11 {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 45px;
+    left: 118%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip11:hover .tooltiptext11 {
+    visibility: visible;
+    opacity: 1;
+}
